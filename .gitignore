@@ -1,0 +1,39 @@
+# Visual Studio cache/options
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.userosscache
+
+# VS IntelliSense precompiled header cache
+*.ipch
+
+# VS build results
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.tlog/
+*.recipe
+*.idb
+*.log
+*.lastbuildstate
+
+# VS browse database
+*.VC.db
+*.VC.VC.opendb
+
+# VS Code ContentIndex
+*.vsidx
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# OS junk
+.DS_Store
