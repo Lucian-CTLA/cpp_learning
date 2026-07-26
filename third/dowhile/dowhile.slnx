@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dowhile/dowhile.vcxproj" Id="d4a3087a-5c8d-4cd9-bfc4-5b8464a4c237" />
+</Solution>

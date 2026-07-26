@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="while/while.vcxproj" Id="6586711a-4dd2-4128-bfc5-97f53eb1afdd" />
+</Solution>
