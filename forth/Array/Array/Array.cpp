@@ -12,7 +12,19 @@
 	cout << arr[4];
 */
 //数据类型 数组名[数组长度] = {值1,值2,...};
+ /*
+ int arr2[5] = {10,20,30,40,50 };
+	//利用循环输出数组里面的元素
+	for (int i = 0;i < 5;i++) {
+		cout << arr2[i] << endl;
+	}
+ */
+
+ 
 //数据类型 数组名[] = {值1,值2,...};
+/*
+int arr3[] = { 80,16,28,37,56,38,39 };
+*/
 #include <iostream>
 #include<string>
 #include<ctime>
@@ -20,10 +32,7 @@
 	rand() % 100 + 1;*/
 using namespace std;
 int main() {
-	int arr2[5] = {10,20,30,40,50 };
-	//利用循环输出数组里面的元素
-	for (int i = 0;i < 5;i++) {
-		cout << arr2[i] << endl;
-	}
+	
+
 	return 0;
 }
