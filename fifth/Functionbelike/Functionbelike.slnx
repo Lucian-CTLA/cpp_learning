@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Functionbelike/Functionbelike.vcxproj" Id="470a450c-a98f-4011-b5d4-4bfc56d2b554" />
+</Solution>
