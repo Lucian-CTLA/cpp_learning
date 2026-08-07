@@ -44,3 +44,17 @@ int main() {
 }
 ```
 ![冒泡排序图解](images/冒泡排序.png)
+冒泡排序（必记）：
+```c++
+void bubbleSort(int *arr,int len) {
+	for(int i=0;i<len-1;i++ )
+		for (int j = 0;j < len - i-1;j++) {
+			//如果j>j+i的值那么就交换两数
+			if (arr[j] > arr[j + 1]) {
+				int temp = arr[j];
+				arr[j] = arr[j + 1];
+				arr[j + 1] = temp;
+			}
+		}
+}
+```
