@@ -57,4 +57,13 @@ void bubbleSort(int *arr,int len) {
 			}
 		}
 }
+int main() {
+	//1.创建一个数组
+	int arr[10] = { 4,3,6,9,1,2,10,8,7,5 };
+	//数组长度
+	int len = sizeof(arr)/sizeof(arr[0]);
+	//2.创建一个函数实现冒泡排序
+	bubbleSort(arr,len);
+	return 0;
+}
 ```
