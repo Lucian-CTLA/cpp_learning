@@ -3,8 +3,8 @@
 #include<iostream>
 using namespace std;
 //打印数据函数
-void showValue(int& val) {
-	val = 10000;
+void showValue(const int& val) {
+	//val = 10000;//加入const后就不会修改值了，变成可读
 	cout <<val <<endl;
 
 }
