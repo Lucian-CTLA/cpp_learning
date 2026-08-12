@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="函数重载/函数重载.vcxproj" />
+  <Project Path="函数重载/函数重载.vcxproj" Id="c421f6f2-6e5d-41f9-b5e1-ed52072e6285" />
 </Solution>
