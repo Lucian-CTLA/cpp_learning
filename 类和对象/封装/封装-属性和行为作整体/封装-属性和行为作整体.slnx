@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="封装-属性和行为作整体/封装-属性和行为作整体.vcxproj" />
+  <Project Path="封装-属性和行为作整体/封装-属性和行为作整体.vcxproj" Id="65d9f204-1647-40f5-8db4-72bffc3aad72" />
 </Solution>
